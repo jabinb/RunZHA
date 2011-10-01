@@ -1,0 +1,27 @@
+A player in zuluhotel can choose to specialize in various classes.  To
+specialize in a class the player must invest a mininum number of skill
+points in the class skills for that class.
+
+Being part of a specialized class awards certain bonuses to the
+player, these bonuses increase as the player reaches higher levels of
+the class.
+
+If a player chooses not to specialize in a class, or they train too
+many skills that are not part of their class skills, they become a
+"Power Player" who receives no class bonuses, but can train any skill
+they wish to any level.
+
+The available classes are:
+-Bard
+-Crafter
+-Mage
+-Ranger
+-Theif
+-Warrior
+-Power Player *
+
+(* power player isn't so much a class as it is a lack of being a
+member of any other class)
+
+
+

@@ -1,0 +1,8 @@
+E:\Projects\RunZH\bin\Debug\RunUOCore.exe
+E:\Projects\RunZH\bin\Debug\RunUOCore.pdb
+E:\Projects\RunZH\runzh\core\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\RunZH\runzh\core\obj\Debug\RunUOCore.exe
+E:\Projects\RunZH\runzh\core\obj\Debug\RunUOCore.pdb
+E:\Projects\RunZH\runzh_svn\core\obj\Debug\RunUOCore.exe
+E:\Projects\RunZH\runzh_svn\core\obj\Debug\RunUOCore.pdb
+E:\Projects\RunZH\runzh_svn\core\obj\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+E:\Projects\RunZH\bin\Debug\RunZH.dll
+E:\Projects\RunZH\bin\Debug\RunZH.pdb
+E:\Projects\RunZH\runzh\Scripts\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\RunZH\runzh\Scripts\obj\Debug\RunZH.dll
+E:\Projects\RunZH\runzh\Scripts\obj\Debug\RunZH.pdb
+E:\Projects\RunZH\runzh_svn\Scripts\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\RunZH\runzh_svn\Scripts\obj\Debug\RunZH.dll
+E:\Projects\RunZH\runzh_svn\Scripts\obj\Debug\RunZH.pdb

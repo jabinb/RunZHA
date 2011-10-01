@@ -1,0 +1,27 @@
+======= Ores =======
+
+There are a lot of different ores available in zuluhotel.  Different
+ores have different attributes.
+
+Properties are as follows:
+Quality: Ores with a higher quality will produce items with more
+   hitpoints (durability) and weapons which deal more damage.
+
+Base Difficulty:  The base difficulty of the ore, is added to the
+difficulty of the item being crafted.
+
+Reduced Dex Penalty: Armor crafted by certain ores will exhibit less
+   of a dexterity bonus when worn by the player
+
+Elemental Protection: 
+
+Spell Circle Immunity:
+
+Spell Damage Reduction
+
+
+
+
+
+======= Harvesting ======
+

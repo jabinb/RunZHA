@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <xsd:element name="ores" type="oresType"/>
+
+  <xsd:complexType name="oresType">
+    <xsd:element name="ore" type="oreType"/>
+  </xsd:complexType>
+
+  <xsd:complexType name="oreType">
+    <xsd:attribute name="
+  </xsd:complexType>
+</xsd:schema>
