@@ -2042,7 +2042,7 @@
     <Compile Include="Zulu\ZuluUtil.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\core\RunUO Core.csproj">
+    <ProjectReference Include="..\Server\RunUO Core.csproj">
       <Project>{FC7130F1-057E-45BE-A20C-A21F5106FA57}</Project>
       <Name>RunUO Core</Name>
     </ProjectReference>

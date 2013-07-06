@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunUO Core", "core\RunUO Core.csproj", "{FC7130F1-057E-45BE-A20C-A21F5106FA57}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunUO Core", "Server\RunUO Core.csproj", "{FC7130F1-057E-45BE-A20C-A21F5106FA57}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunZH Scripts", "Scripts\RunZH Scripts.csproj", "{E8B1FA98-68AC-4602-8AF9-45BBAA345FAB}"
 EndProject
